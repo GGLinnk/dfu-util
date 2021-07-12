@@ -10,7 +10,6 @@ src/dfu-prefix
 src/dfu-util
 src/dfu-version.h
 stamp-h1
-Win32/
 msvc/ipch/
 *.log
 *.status
@@ -22,3 +21,6 @@ msvc/ipch/
 *.opensdf
 *.sdf
 *~
+build/
+out/
+.vs
