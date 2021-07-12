@@ -14,6 +14,7 @@ The official website is http://dfu-util.sourceforge.net
 
 - [v0.10](https://github.com/GGLinnk/dfu-util/releases/tag/v0.10-test)
 - [v0.9](https://github.com/GGLinnk/dfu-util/releases/tag/v0.9-test)
+> [Warning] This tools are in test, please report any issue [here](https://github.com/GGLinnk/dfu-util/issues).
 
 
 ## Build
