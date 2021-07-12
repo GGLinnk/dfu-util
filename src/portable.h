@@ -15,6 +15,12 @@
 # endif
 #endif /* HAVE_CONFIG_H */
 
+#ifdef _MSC_VER
+# ifndef SSIZE_MAX
+#   define SSIZE_MAX SIZE_MAX
+# endif
+#endif
+
 #ifdef HAVE_UNISTD_H
 # include <unistd.h>
 #endif /* HAVE_UNISTD_H */
