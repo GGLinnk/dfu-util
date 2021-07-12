@@ -1,5 +1,7 @@
 # Dfu-util - Device Firmware Upgrade Utilities
 
+> Pre-Releases are availables
+
 Dfu-util is a host side implementation of the DFU 1.0 and DFU 1.1 [1] specification of the USB forum.
 
 DFU is intended to download and upload firmware to devices connected over USB.
