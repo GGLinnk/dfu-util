@@ -64,8 +64,8 @@
 # define O_BINARY   0
 #endif
 
-#ifndef off_t
-# define off_t long int
+#if !defined(off_t)
+  typedef long int off_t;
 #endif
 
 #endif /* PORTABLE_H */
