@@ -22,5 +22,6 @@ msvc/ipch/
 *.sdf
 *~
 build/
-out/
+Win32/
+x64/
 .vs
