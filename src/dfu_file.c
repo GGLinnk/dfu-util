@@ -31,6 +31,7 @@
 #include <time.h>
 #include <fcntl.h>
 #include <limits.h>
+#include <libusb.h>
 
 #include "portable.h"
 #include "dfu_file.h"
