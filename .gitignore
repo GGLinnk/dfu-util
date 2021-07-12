@@ -22,3 +22,7 @@ msvc/ipch/
 *.opensdf
 *.sdf
 *~
+build/
+Win32/
+x64/
+.vs
