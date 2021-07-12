@@ -20,9 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{8F7600A2-3B37-4956-B39B-A1D43EF29EDA}</ProjectGuid>
-    <RootNamespace>dfusuffix</RootNamespace>
-    <ProjectName>dfu-suffix</ProjectName>
+    <ProjectGuid>{869A6C2E-25CD-4D5C-932D-A77D317BCB7E}</ProjectGuid>
+    <RootNamespace>dfuprefix</RootNamespace>
+    <ProjectName>dfu-prefix</ProjectName>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -144,7 +144,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\src\dfu_file.c" />
-    <ClCompile Include="..\src\suffix.c" />
+    <ClCompile Include="..\src\prefix.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\dfu_file.h" />
